@@ -1,0 +1,27 @@
+{
+  "name": "mongoose-atlas-clase",
+  "version": "1.0.0",
+  "description": "Este es un proyecto básico que utiliza Mongoose para realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) en una base de datos MongoDB.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FguedezR/mongoose-atlas-clase.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/FguedezR/mongoose-atlas-clase/issues"
+  },
+  "homepage": "https://github.com/FguedezR/mongoose-atlas-clase#readme",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "mongodb": "^7.1.1",
+    "mongoose": "^9.3.3"
+  }
+}
